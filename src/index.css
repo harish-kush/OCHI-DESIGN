@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: ico;
+    src: url('./icomoon.ttf');
+}
+@font-face {
+    font-family:sb ;
+    src: url('./FoundersGrotesk-Semibold.ttf');
+}
+@font-face {
+    font-family: nm1;
+    src: url('./NeueMontreal-Regular.ttf');
+}
+@font-face {
+    font-family: nmregular;
+    src: url('./NeueMontreal-Regular\ \(1\).ttf');
+}
